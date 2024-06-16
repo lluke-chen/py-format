@@ -1,3 +1,4 @@
-// {
-//   "recommendations": ["charliermarsh.ruff", "ms-python.python"]
-// }
+// Suggest recommended extensions for project
+{
+  "recommendations": ["charliermarsh.ruff", "ms-python.python"]
+}
