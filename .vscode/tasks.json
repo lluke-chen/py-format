@@ -10,7 +10,9 @@
         "runOn": "folderOpen"
       },
       "presentation": {
-        "reveal": "silent"
+        "reveal": "silent",
+        "revealProblems": "onProblem",
+        "close": true
       }
     }
   ]
